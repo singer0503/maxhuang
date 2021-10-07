@@ -1,10 +1,9 @@
 ### Hi there 👋
-
 ![MaxHuang github stats](https://github-readme-stats.vercel.app/api?username=singer0503&count_private=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singer0503&layout=compact)
 
 <!--
-**singer0503/maxhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**singer0503/singer0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
