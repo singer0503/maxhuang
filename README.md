@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jarvis Lin's github stats](https://github-readme-stats.vercel.app/api?username=singer0503&count_private=true&hide=issues)
+![MaxHuang github stats](https://github-readme-stats.vercel.app/api?username=singer0503&count_private=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singer0503&layout=compact)
 
 <!--
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=singer0503&repo=maxhuang)](https://github.com/singer0503/maxhuang)
